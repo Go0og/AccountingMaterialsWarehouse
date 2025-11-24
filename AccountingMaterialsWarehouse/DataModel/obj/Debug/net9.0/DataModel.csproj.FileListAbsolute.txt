@@ -1,0 +1,11 @@
+C:\PIS_ISEbd-3_\Булат\core\AccountingMaterialsWarehouse\DataModel\bin\Debug\net9.0\DataModel.deps.json
+C:\PIS_ISEbd-3_\Булат\core\AccountingMaterialsWarehouse\DataModel\bin\Debug\net9.0\DataModel.dll
+C:\PIS_ISEbd-3_\Булат\core\AccountingMaterialsWarehouse\DataModel\bin\Debug\net9.0\DataModel.pdb
+C:\PIS_ISEbd-3_\Булат\core\AccountingMaterialsWarehouse\DataModel\obj\Debug\net9.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\PIS_ISEbd-3_\Булат\core\AccountingMaterialsWarehouse\DataModel\obj\Debug\net9.0\DataModel.AssemblyInfoInputs.cache
+C:\PIS_ISEbd-3_\Булат\core\AccountingMaterialsWarehouse\DataModel\obj\Debug\net9.0\DataModel.AssemblyInfo.cs
+C:\PIS_ISEbd-3_\Булат\core\AccountingMaterialsWarehouse\DataModel\obj\Debug\net9.0\DataModel.csproj.CoreCompileInputs.cache
+C:\PIS_ISEbd-3_\Булат\core\AccountingMaterialsWarehouse\DataModel\obj\Debug\net9.0\DataModel.dll
+C:\PIS_ISEbd-3_\Булат\core\AccountingMaterialsWarehouse\DataModel\obj\Debug\net9.0\refint\DataModel.dll
+C:\PIS_ISEbd-3_\Булат\core\AccountingMaterialsWarehouse\DataModel\obj\Debug\net9.0\DataModel.pdb
+C:\PIS_ISEbd-3_\Булат\core\AccountingMaterialsWarehouse\DataModel\obj\Debug\net9.0\ref\DataModel.dll
