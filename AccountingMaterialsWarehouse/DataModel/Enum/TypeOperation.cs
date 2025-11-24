@@ -8,8 +8,13 @@ namespace DataModel.Enum
 {
     public enum TypeOperation
     {
-        Add,
-        Swap,
+        /// <summary>
+        /// Пополнение на склад
+        /// </summary>
+        Add, 
+        /// <summary>
+        /// Отпускание материала на производство
+        /// </summary>
         Remove
     }
 }

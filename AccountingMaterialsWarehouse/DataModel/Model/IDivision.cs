@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataModel.Model
 {
-     interface IDivision : BaseItem
+     public interface IDivision : BaseItem
     {
     }
 }

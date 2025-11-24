@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataModel.Model
 {
-    public interface ITransction : Iid
+    public interface ITransaction : Iid
     {
         DateTime DateTime { get; set; }
         int OperationId { get; set; }

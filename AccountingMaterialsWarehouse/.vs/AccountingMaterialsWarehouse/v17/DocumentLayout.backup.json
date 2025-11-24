@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F304AD0-3C8C-4182-AFEE-5C738023B808}|DataModel\\DataModel.csproj|c:\\pis_isebd-3_\\\u0431\u0443\u043B\u0430\u0442\\core\\accountingmaterialswarehouse\\datamodel\\model\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F304AD0-3C8C-4182-AFEE-5C738023B808}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\model\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F304AD0-3C8C-4182-AFEE-5C738023B808}|DataModel\\DataModel.csproj|c:\\pis_isebd-3_\\\u0431\u0443\u043B\u0430\u0442\\core\\accountingmaterialswarehouse\\datamodel\\model\\mol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F304AD0-3C8C-4182-AFEE-5C738023B808}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\model\\mol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F304AD0-3C8C-4182-AFEE-5C738023B808}|DataModel\\DataModel.csproj|c:\\pis_isebd-3_\\\u0431\u0443\u043B\u0430\u0442\\core\\accountingmaterialswarehouse\\datamodel\\baseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F304AD0-3C8C-4182-AFEE-5C738023B808}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\baseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F304AD0-3C8C-4182-AFEE-5C738023B808}|DataModel\\DataModel.csproj|c:\\pis_isebd-3_\\\u0431\u0443\u043B\u0430\u0442\\core\\accountingmaterialswarehouse\\datamodel\\iid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F304AD0-3C8C-4182-AFEE-5C738023B808}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\iid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|c:\\pis_isebd-3_\\\u0431\u0443\u043B\u0430\u0442\\core\\accountingmaterialswarehouse\\contract\\storagemodel\\chartofaccountstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|solutionrelative:contract\\storagemodel\\chartofaccountstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,55 +29,28 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Material.cs",
-              "DocumentMoniker": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\DataModel\\Model\\Material.cs",
-              "RelativeDocumentMoniker": "DataModel\\Model\\Material.cs",
-              "ToolTip": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\DataModel\\Model\\Material.cs*",
-              "RelativeToolTip": "DataModel\\Model\\Material.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Title": "ChartOfAccountStorage.cs",
+              "DocumentMoniker": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\ChartOfAccountStorage.cs",
+              "RelativeDocumentMoniker": "Contract\\StorageModel\\ChartOfAccountStorage.cs",
+              "ToolTip": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\ChartOfAccountStorage.cs",
+              "RelativeToolTip": "Contract\\StorageModel\\ChartOfAccountStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:02:27.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MOL.cs",
-              "DocumentMoniker": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\DataModel\\Model\\MOL.cs",
-              "RelativeDocumentMoniker": "DataModel\\Model\\MOL.cs",
-              "ToolTip": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\DataModel\\Model\\MOL.cs",
-              "RelativeToolTip": "DataModel\\Model\\MOL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:55:32.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseItem.cs",
-              "DocumentMoniker": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\DataModel\\BaseItem.cs",
-              "RelativeDocumentMoniker": "DataModel\\BaseItem.cs",
-              "ToolTip": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\DataModel\\BaseItem.cs",
-              "RelativeToolTip": "DataModel\\BaseItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:52:35.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Iid.cs",
-              "DocumentMoniker": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\DataModel\\Iid.cs",
-              "RelativeDocumentMoniker": "DataModel\\Iid.cs",
-              "ToolTip": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\DataModel\\Iid.cs",
-              "RelativeToolTip": "DataModel\\Iid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:42:48.538Z",
+              "WhenOpened": "2025-11-24T19:46:16.262Z",
               "EditorCaption": ""
             }
           ]

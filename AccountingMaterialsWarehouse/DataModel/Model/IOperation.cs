@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataModel.Enum;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,7 @@ namespace DataModel.Model
 {
     public interface IOperation : Iid
     {
-
+          TypeOperation TypeOperation { get; set; }
           DateTime DateTime { get; set; }
           List<int> Quantity { get; set; } 
           float Summa { get; set; }
@@ -19,14 +20,7 @@ namespace DataModel.Model
           int DivisionId { get; set; }
           int SupplierId { get; set; }
 
-        /// <summary>
-        /// ИД склада отправителя
-        /// </summary>
-          int? WareHouseIdSend { get; set; } 
-        /// <summary>
-        /// ИД склада получателя
-        /// </summary>
-          int? WareHouseIdRecipient { get; set; }
+          int WareHouseId { get; set; } 
 
     }
 }
