@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|c:\\pis_isebd-3_\\\u0431\u0443\u043B\u0430\u0442\\core\\accountingmaterialswarehouse\\contract\\storagemodel\\iwarehousestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|solutionrelative:contract\\storagemodel\\iwarehousestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|c:\\pis_isebd-3_\\\u0431\u0443\u043B\u0430\u0442\\core\\accountingmaterialswarehouse\\contract\\storagemodel\\iuserstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|solutionrelative:contract\\storagemodel\\iuserstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|c:\\pis_isebd-3_\\\u0431\u0443\u043B\u0430\u0442\\core\\accountingmaterialswarehouse\\contract\\storagemodel\\itransactionstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|solutionrelative:contract\\storagemodel\\itransactionstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|c:\\pis_isebd-3_\\\u0431\u0443\u043B\u0430\u0442\\core\\accountingmaterialswarehouse\\contract\\storagemodel\\isupplierstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|solutionrelative:contract\\storagemodel\\isupplierstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|c:\\pis_isebd-3_\\\u0431\u0443\u043B\u0430\u0442\\core\\accountingmaterialswarehouse\\contract\\storagemodel\\ioperationstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|solutionrelative:contract\\storagemodel\\ioperationstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|c:\\pis_isebd-3_\\\u0431\u0443\u043B\u0430\u0442\\core\\accountingmaterialswarehouse\\contract\\storagemodel\\imolstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD11DD2-6A8E-49A5-B6A5-F3AF330DAD09}|Contract\\Contract.csproj|solutionrelative:contract\\storagemodel\\imolstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IWareHouseStorage.cs",
+              "DocumentMoniker": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\IWareHouseStorage.cs",
+              "RelativeDocumentMoniker": "Contract\\StorageModel\\IWareHouseStorage.cs",
+              "ToolTip": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\IWareHouseStorage.cs",
+              "RelativeToolTip": "Contract\\StorageModel\\IWareHouseStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:04:04.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserStorage.cs",
+              "DocumentMoniker": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\IUserStorage.cs",
+              "RelativeDocumentMoniker": "Contract\\StorageModel\\IUserStorage.cs",
+              "ToolTip": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\IUserStorage.cs",
+              "RelativeToolTip": "Contract\\StorageModel\\IUserStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:03:35.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITransactionStorage.cs",
+              "DocumentMoniker": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\ITransactionStorage.cs",
+              "RelativeDocumentMoniker": "Contract\\StorageModel\\ITransactionStorage.cs",
+              "ToolTip": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\ITransactionStorage.cs",
+              "RelativeToolTip": "Contract\\StorageModel\\ITransactionStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:03:15.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISupplierStorage.cs",
+              "DocumentMoniker": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\ISupplierStorage.cs",
+              "RelativeDocumentMoniker": "Contract\\StorageModel\\ISupplierStorage.cs",
+              "ToolTip": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\ISupplierStorage.cs",
+              "RelativeToolTip": "Contract\\StorageModel\\ISupplierStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:02:56.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOperationStorage.cs",
+              "DocumentMoniker": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\IOperationStorage.cs",
+              "RelativeDocumentMoniker": "Contract\\StorageModel\\IOperationStorage.cs",
+              "ToolTip": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\IOperationStorage.cs",
+              "RelativeToolTip": "Contract\\StorageModel\\IOperationStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:02:32.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMOLStorage.cs",
+              "DocumentMoniker": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\IMOLStorage.cs",
+              "RelativeDocumentMoniker": "Contract\\StorageModel\\IMOLStorage.cs",
+              "ToolTip": "C:\\PIS_ISEbd-3_\\\u0411\u0443\u043B\u0430\u0442\\core\\AccountingMaterialsWarehouse\\Contract\\StorageModel\\IMOLStorage.cs",
+              "RelativeToolTip": "Contract\\StorageModel\\IMOLStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:02:05.079Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"

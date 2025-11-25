@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DataModel")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DataBaseImplement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da25e102b50912519465566a60985e1cfddafca2")]
-[assembly: System.Reflection.AssemblyProductAttribute("DataModel")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DataModel")]
+[assembly: System.Reflection.AssemblyProductAttribute("DataBaseImplement")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DataBaseImplement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

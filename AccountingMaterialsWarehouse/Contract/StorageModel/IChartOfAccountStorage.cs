@@ -9,11 +9,11 @@ using Contract.BindingModel;
 
 namespace Contract.StorageModel
 {
-    public interface ChartOfAccountStorage
+    public interface IChartOfAccountStorage
     {
         public List<ChartOfAccount> GetFullList();
         public List<ChartOfAccount> GetFillteredList(ChartOfAccountSearchModel Model);
-        public ChartOfAccount GetItem(ChartOfAccountSearchModel Model);
+        public ChartOfAccount? GetItem(ChartOfAccountSearchModel Model);
 
         public bool CreateChartOfAccount(ChartOfAccountBindingModel model);
         public bool UpdateChartOfAccount(ChartOfAccountBindingModel Model);
